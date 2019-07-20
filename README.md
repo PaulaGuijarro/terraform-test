@@ -1,11 +1,13 @@
 # terraform-test
+
 Test para crear infraestructura con Terraform en AWS
-IAM
-VPC
-Security Groups
-S3 Bucket
-RDS
-EC2
-ELB
-ASG
-ROUTE53
+
+* IAM
+* VPC
+* Security Groups
+* S3 Bucket
+* RDS
+* EC2
+* ELB
+* ASG
+* ROUTE53
