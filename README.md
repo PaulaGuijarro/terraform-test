@@ -1,6 +1,6 @@
 # terraform-test
 
-Test para crear infraestructura con Terraform en AWS
+crear infraestructura con Terraform en AWS
 
 * IAM
 * VPC
